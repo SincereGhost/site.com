@@ -966,6 +966,7 @@ margin: 0 0 40px 0;
 }
 .many_reviews{
 margin: 0 0 20px 0;
+/*background: #fff;*/
 }
 	.no_reviews{
 	background: #fff;
@@ -4283,8 +4284,11 @@ a img.aligncenter{display:block;margin:20px auto;}
 
 
 .home_reserv_wrap{
-	background:#487592;
-	padding: 50px 0 35px;
+	width: 960px;
+    margin: 0 auto;
+    background: #487592;
+    padding: 50px 0 35px;
+    border-radius: 70px;
 	}
 .home_reserv_title {
     color: #fff;

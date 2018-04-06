@@ -130,66 +130,98 @@ $(function(){
 						<div class="xtt_icon_ins">
 							<div class="xtt_icon_abs"></div>Все</div>
 						</div>
-					<div class="xtt_icon js_icon_left js_icon_left_BTC" style="" data-type="BTC">
-						<div class="xtt_icon_ins">
+						<div class="xtt_icon js_icon_left js_icon_left_BTC" style="" data-type="BTC">
+							<div class="xtt_icon_ins">
 							<div class="xtt_icon_abs"></div>BTC</div>
 						</div>
-							<div class="xtt_icon js_icon_left js_icon_left_USD" style="" data-type="USD">
-								<div class="xtt_icon_ins">
-									<div class="xtt_icon_abs"></div>USD</div>
-								</div>
-									<div class="xtt_icon js_icon_left js_icon_left_RUB" style="" data-type="RUB">
-										<div class="xtt_icon_ins">
-											<div class="xtt_icon_abs"></div>RUB</div>
-										</div>
-											<div class="xtt_icon js_icon_left js_icon_left_DASH" style="display: none;" data-type="DASH">
-												<div class="xtt_icon_ins">
-													<div class="xtt_icon_abs"></div>DASH</div>
-												</div>
-													<div class="xtt_icon js_icon_left js_icon_left_ETH" style="" data-type="ETH">
-														<div class="xtt_icon_ins">
-															<div class="xtt_icon_abs"></div>ETH</div>
-														</div>
-															<div class="xtt_icon js_icon_left js_icon_left_UAH" style="" data-type="UAH">
-																<div class="xtt_icon_ins">
-																	<div class="xtt_icon_abs"></div>UAH</div>
-																</div>
-																	<div class="xtt_icon js_icon_left js_icon_left_LTC" style="display: none;" data-type="LTC"><div class="xtt_icon_ins">
-																		<div class="xtt_icon_abs"></div>LTC</div>
-																	</div>
-																		<div class="xtt_icon js_icon_left js_icon_left_ZEC" style="" data-type="ZEC">
-																			<div class="xtt_icon_ins">
-																				<div class="xtt_icon_abs"></div>ZEC</div>
-																			</div>
+
+						<div class="xtt_icon js_icon_left js_icon_left_USD" style="" data-type="USD">
+							<div class="xtt_icon_ins">
+							<div class="xtt_icon_abs"></div>USD</div>
+						</div>
+						<div class="xtt_icon js_icon_left js_icon_left_RUB" style="" data-type="RUB">
+							<div class="xtt_icon_ins">
+							<div class="xtt_icon_abs"></div>RUB</div>
+						</div>
+
+						<div class="xtt_icon js_icon_left js_icon_left_DASH" style="display: none;" data-type="DASH">
+							<div class="xtt_icon_ins">
+							<div class="xtt_icon_abs"></div>DASH</div>
+						</div>
+
+						<div class="xtt_icon js_icon_left js_icon_left_ETH" style="" data-type="ETH">
+							<div class="xtt_icon_ins">
+							<div class="xtt_icon_abs"></div>ETH</div>
+						</div>
+
+						<div class="xtt_icon js_icon_left js_icon_left_UAH" style="" data-type="UAH">
+							<div class="xtt_icon_ins">
+							<div class="xtt_icon_abs"></div>UAH</div>
+						</div>
+
+						<div class="xtt_icon js_icon_left js_icon_left_LTC" style="display: none;" data-type="LTC">
+							<div class="xtt_icon_ins">
+							<div class="xtt_icon_abs"></div>LTC</div>
+						</div>
+
+						<div class="xtt_icon js_icon_left js_icon_left_ZEC" style="" data-type="ZEC">
+							<div class="xtt_icon_ins">
+							<div class="xtt_icon_abs"></div>ZEC</div>
+						</div>
+
 					<div class="clear"></div>
 				</div>
+
 				<div class="xtt_right_col_icon">
 
 					<div class="xtt_icon active js_icon_right" data-type="0" style="">
-						<div class="xtt_icon_ins">
-							<div class="xtt_icon_abs"></div>Все</div></div>
-					<div class="xtt_icon js_icon_right js_icon_right_BTC" style="display: none;" data-type="BTC">
-						<div class="xtt_icon_ins">
-							<div class="xtt_icon_abs"></div>BTC</div></div>
-							<div class="xtt_icon js_icon_right js_icon_right_USD" style="display: none;" data-type="USD">
 							<div class="xtt_icon_ins">
-							<div class="xtt_icon_abs"></div>USD</div></div><div class="xtt_icon js_icon_right js_icon_right_RUB" style="" data-type="RUB">
+							<div class="xtt_icon_abs"></div>Все</div>
+					</div>
+
+						<div class="xtt_icon js_icon_right js_icon_right_BTC" style="display: none;" data-type="BTC">
 							<div class="xtt_icon_ins">
-							<div class="xtt_icon_abs"></div>RUB</div></div>
-							<div class="xtt_icon js_icon_right js_icon_right_DASH" style="display: none;" data-type="DASH"><div class="xtt_icon_ins">
-							<div class="xtt_icon_abs"></div>DASH</div></div>
-							<div class="xtt_icon js_icon_right js_icon_right_ETH" style="display: none;" data-type="ETH">
+							<div class="xtt_icon_abs"></div>BTC</div>
+						</div>
+					
+						<div class="xtt_icon js_icon_right js_icon_right_USD" style="display: none;" data-type="USD">
 							<div class="xtt_icon_ins">
-							<div class="xtt_icon_abs"></div>ETH</div></div>
-							<div class="xtt_icon js_icon_right js_icon_right_UAH" style="" data-type="UAH">
+							<div class="xtt_icon_abs"></div>USD</div>
+						</div>
+
+						<div class="xtt_icon js_icon_right js_icon_right_RUB" style="" data-type="RUB">
 							<div class="xtt_icon_ins">
-							<div class="xtt_icon_abs"></div>UAH</div></div>
-							<div class="xtt_icon js_icon_right js_icon_right_LTC" style="display: none;" data-type="LTC"><div class="xtt_icon_ins">
-							<div class="xtt_icon_abs"></div>LTC</div></div>
-							<div class="xtt_icon js_icon_right js_icon_right_ZEC" style="display: none;" data-type="ZEC">
+							<div class="xtt_icon_abs"></div>RUB</div>
+						</div>
+
+						<div class="xtt_icon js_icon_right js_icon_right_DASH" style="display: none;" data-type="DASH">
 							<div class="xtt_icon_ins">
-							<div class="xtt_icon_abs"></div>ZEC</div></div>
-					<div class="clear"></div>
+							<div class="xtt_icon_abs"></div>DASH</div>
+						</div>
+
+						<div class="xtt_icon js_icon_right js_icon_right_ETH" style="display: none;" data-type="ETH">
+							<div class="xtt_icon_ins">
+							<div class="xtt_icon_abs"></div>ETH</div>
+						</div>
+
+						<div class="xtt_icon js_icon_right js_icon_right_UAH" style="" data-type="UAH">
+							<div class="xtt_icon_ins">
+							<div class="xtt_icon_abs"></div>UAH</div>
+						</div>
+
+						<div class="xtt_icon js_icon_right js_icon_right_LTC" style="display: none;" data-type="LTC">
+							<div class="xtt_icon_ins">
+							<div class="xtt_icon_abs"></div>LTC</div>
+						</div>
+
+						<div class="xtt_icon js_icon_right js_icon_right_ZEC" style="display: none;" data-type="ZEC">
+							<div class="xtt_icon_ins">
+							<div class="xtt_icon_abs"></div>ZEC</div>
+						</div>
+
+					<div class="clear">
+						
+					</div>
 				</div>
 					<div class="clear"></div>
 			</div>
@@ -1127,7 +1159,7 @@ $(function(){
 								<div class="one_home_reserv_title">
 									Приват24 UAH								</div>
 								<div class="one_home_reserv_sum">
-									350 692.6348								</div>
+									100								</div>
 							</div>
 								<div class="clear"></div>
 						</div>
@@ -1268,9 +1300,8 @@ $(function(){
 			
 			<div class="home_reviews_div">
 				<div class="home_reviews_div_ins">
-			
-								
-					<div class="home_reviews_one">
+				
+					<!-- <div class="home_reviews_one">
 						<div class="home_reviews_abs"></div>
 						<div class="home_reviews_date">Владимир, 04.12.2017, 13:55</div>
 							<div class="clear"></div>
@@ -1291,7 +1322,7 @@ $(function(){
 						<div class="home_reviews_date">Антоха, 02.12.2017, 13:59</div>
 							<div class="clear"></div>
 						<div class="home_reviews_content">2,8 эфира вывод. Через 10 минут деньги уже на карте сбера. Такой скорости еще не…</div>
-					</div>			
+					</div>		 -->	
 				
 							
 					<div class="clear"></div>
